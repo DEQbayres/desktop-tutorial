@@ -1,5 +1,6 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Hello World! This is an example of a repository. You can use any editor to make changes to the README file.
+For this example, I used the R editor, which is the default editor in GitHub Desktop
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Benjamin Ayres
